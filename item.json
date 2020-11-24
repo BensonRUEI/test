@@ -1,0 +1,402 @@
+﻿{
+  "results":[
+    {
+        "id": 1,
+        "item": "Liver>Liver parenchyma>Unremarkable",
+        "Description": "Unremarkable liver parenchyma"
+    },
+    {
+        "id": 2,
+        "item": "Liver>Liver parenchyma>Remarkable>Size>Not specified",
+        "Description": ""
+    },
+    {
+        "id": 3,
+        "item": "Liver>Liver parenchyma>Remarkable>Size>Hypertrophy",
+        "Description": "Hypertrophic change of liver"
+    },
+    {
+        "id": 4,
+        "item": "Liver>Liver parenchyma>Remarkable>Size>Atrophy",
+        "Description": "Atrophy change of liver"
+    },
+    {
+        "id": 5,
+        "item": "Liver>Liver parenchyma>Remarkable>Size>Unremarkable",
+        "Description": "Homogeneous contrast filling of the liver parenchyma without space occupied lesion"
+    },
+    {
+        "id": 6,
+        "item": "Liver>Liver parenchyma>Remarkable>Cirrhosis>No",
+        "Description": "No evidence of liver cirrhosis"
+    },
+    {
+        "id": 7,
+        "item": "Liver>Liver parenchyma>Remarkable>Cirrhosis>Yes",
+        "Description": "Lobulated contour of liver parenchyma favoring cirrhosis"
+    },
+    {
+        "id": 8,
+        "item": "Liver>Liver parenchyma>Remarkable>Diffuse change>Not presence",
+        "Description": "Unremarkable liver parenchyma"
+    },
+    {
+        "id": 9,
+        "item": "Liver>Liver parenchyma>Remarkable>Diffuse change>Low attenuation",
+        "Description": "Diffuse low attenuation of liver parenchyma favoring fatty liver"
+    },
+    {
+        "id": 10,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S1",
+        "Description": "Hypodense lesion in S1"
+    },
+    {
+        "id": 11,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S2",
+        "Description": "Hypodense lesion in S2"
+    },
+    {
+        "id": 12,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S3",
+        "Description": "Hypodense lesion in S3"
+    },
+    {
+        "id": 13,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S4",
+        "Description": "Hypodense lesion in S4"
+    },
+    {
+        "id": 14,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S5",
+        "Description": "Hypodense lesion in S5"
+    },
+    {
+        "id": 15,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S6",
+        "Description": "Hypodense lesion in S6"
+    },
+    {
+        "id": 16,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S7",
+        "Description": "Hypodense lesion in S7"
+    },
+    {
+        "id": 17,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Localization>S8",
+        "Description": "Hypodense lesion in S8"
+    },
+    {
+        "id": 18,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Size (mm)",
+        "Description": "Hypodense lesion [Size]"
+    },
+    {
+        "id": 19,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P Right hepatectomy",
+        "Description": "Post resection change: s/p right hepatectomy"
+    },
+    {
+        "id": 20,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P Left hepatectomy",
+        "Description": "Post resection change: s/p left hepatectomy"
+    },
+    {
+        "id": 21,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S1",
+        "Description": "Post resection change: s/p S1 segmentectomy"
+    },
+    {
+        "id": 22,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S2",
+        "Description": "Post resection change: s/p S2 segmentectomy"
+    },
+    {
+        "id": 23,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S3",
+        "Description": "Post resection change: s/p S3 segmentectomy"
+    },
+    {
+        "id": 24,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S4",
+        "Description": "Post resection change: s/p S4 segmentectomy"
+    },
+    {
+        "id": 25,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S5",
+        "Description": "Post resection change: s/p S5 segmentectomy"
+    },
+    {
+        "id": 26,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S6",
+        "Description": "Post resection change: s/p S6 segmentectomy"
+    },
+    {
+        "id": 27,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S7",
+        "Description": "Post resection change: s/p S7 segmentectomy"
+    },
+    {
+        "id": 28,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Resection>S/P S8",
+        "Description": "Post resection change: s/p S8 segmentectomy"
+    },
+    {
+        "id": 29,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post RFA",
+        "Description": "Hypodense lesion favoring post RFA necrotic change"
+    },
+    {
+        "id": 30,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post ethanol injection",
+        "Description": "Hypodense lesion favoring post ethanol injection necrotic change"
+    },
+    {
+        "id": 31,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With lipiodol and doxorubicin",
+        "Description": "Hypodense lesion favoring post TAE/TACE necrotic change  with lipiodol and doxorubicin"
+    },
+    {
+        "id": 32,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With lipiodol",
+        "Description": "Hypodense lesion favoring post TAE/TACE necrotic change  with lipiodol "
+    },
+    {
+        "id": 33,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With lipiodol stasis",
+        "Description": "Dense lipiodol stasis"
+    },
+    {
+        "id": 34,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With tendem",
+        "Description": "Hypodense lesion favoring post TAE/TACE necrotic change  with tendem"
+    },
+    {
+        "id": 35,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With hepasphere",
+        "Description": "Hypodense lesion favoring post TAE/TACE necrotic change  with hepasphere"
+    },
+    {
+        "id": 36,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post TAE/TACE>With DC bead",
+        "Description": "Hypodense lesion favoring post TAE/TACE necrotic change  with DC bead"
+    },
+    {
+        "id": 37,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post Y90 radioembolization",
+        "Description": "Hypodense lesion favoring post Y90 radioembolization necrotic change"
+    },
+    {
+        "id": 38,
+        "item": "Liver>Liver parenchyma>Remarkable>post theraputic change>Presence>Therapy>Post pigtail drainage [free text]",
+        "Description": "Post pigtail drainage"
+    },
+    {
+        "id": 39,
+        "item": "Liver>Liver lesion>Not presence",
+        "Description": ""
+    },
+    {
+        "id": 40,
+        "item": "Liver>Liver lesion>Presence>Number [1..n]",
+        "Description": "Mass lesion [Size]"
+    },
+    {
+        "id": 41,
+        "item": "Liver>Liver lesion>Presence>Localization>S1",
+        "Description": "Mass lesion in S1 "
+    },
+    {
+        "id": 42,
+        "item": "Liver>Liver lesion>Presence>Localization>S2",
+        "Description": "Mass lesion in S2"
+    },
+    {
+        "id": 43,
+        "item": "Liver>Liver lesion>Presence>Localization>S3",
+        "Description": "Mass lesion in S3"
+    },
+    {
+        "id": 44,
+        "item": "Liver>Liver lesion>Presence>Localization>S4",
+        "Description": "Mass lesion in S4"
+    },
+    {
+        "id": 45,
+        "item": "Liver>Liver lesion>Presence>Localization>S5",
+        "Description": "Mass lesion in S5"
+    },
+    {
+        "id": 46,
+        "item": "Liver>Liver lesion>Presence>Localization>S6",
+        "Description": "Mass lesion in S6"
+    },
+    {
+        "id": 47,
+        "item": "Liver>Liver lesion>Presence>Localization>S7",
+        "Description": "Mass lesion in S7"
+    },
+    {
+        "id": 48,
+        "item": "Liver>Liver lesion>Presence>Localization>S8",
+        "Description": "Mass lesion in S8"
+    },
+    {
+        "id": 49,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Early enhancement, early washout",
+        "Description": "Mass lesion with early enhancement, early washout, maybe HCC"
+    },
+    {
+        "id": 50,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>No early enhancement but early washout",
+        "Description": "Mass lesion with no early enhancement but early washout, maybe HCC"
+    },
+    {
+        "id": 51,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Early enhancement, persistent enhancement",
+        "Description": "Mass lesion with early enhancement, persistent enhancement, maybe hemangioma"
+    },
+    {
+        "id": 52,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Delay enhancement",
+        "Description": "Mass lesion with delay enhancement"
+    },
+    {
+        "id": 53,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Poor enhancement",
+        "Description": "Mass lesion with poor enhancement"
+    },
+    {
+        "id": 54,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>No definite enhancement",
+        "Description": "Mass lesion with no definite enhancement"
+    },
+    {
+        "id": 55,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Peripheral enhancement",
+        "Description": "Mass lesion with peripheral enhancement"
+    },
+    {
+        "id": 56,
+        "item": "Liver>Liver lesion>Presence>Lesion enhancement>Peripheral to centripetal enhancement",
+        "Description": "Mass lesion with peripheral to centripetal enhancement"
+    },
+    {
+        "id": 57,
+        "item": "Liver>Liver lesion>Presence>vascular invasion>Right portal vein",
+        "Description": "Mass lesion associated with right portal vein invasion"
+    },
+    {
+        "id": 58,
+        "item": "Liver>Liver lesion>Presence>vascular invasion>Left portal vein",
+        "Description": "Mass lesion associated with left portal vein invasion"
+    },
+    {
+        "id": 59,
+        "item": "Liver>Liver lesion>Presence>vascular invasion>Main portal vein",
+        "Description": "Mass lesion associated with main portal vein invasion"
+    },
+    {
+        "id": 60,
+        "item": "Liver>Liver vessel>Hepatic artery>Unremarkable",
+        "Description": "patent hepatic arteries"
+    },
+    {
+        "id": 61,
+        "item": "Liver>Liver vessel>Hepatic artery>Remarkable>Stenosis",
+        "Description": "Stenosis in proper hepatic artery"
+    },
+    {
+        "id": 62,
+        "item": "Liver>Liver vessel>Hepatic artery>Remarkable>Occlusion",
+        "Description": "Occlusion in proper hepatic artery"
+    },
+    {
+        "id": 63,
+        "item": "Liver>Liver vessel>Hepatic artery>Remarkable>Dissection",
+        "Description": "Intimal flap in proper hepatic artery, favoring dissection"
+    },
+    {
+        "id": 64,
+        "item": "Liver>Liver vessel>Hepatic artery>Remarkable>Aneurysm",
+        "Description": "Aneurymal dilatation [Size] of hepatic artery"
+    },
+    {
+        "id": 65,
+        "item": "Liver>Liver vessel>Hepatic vein>Unremarkable",
+        "Description": "patent hepatic veins"
+    },
+    {
+        "id": 66,
+        "item": "Liver>Liver vessel>Hepatic vein>Remarkable>Thrombus",
+        "Description": "Thrombosis of hepatic vein"
+    },
+    {
+        "id": 67,
+        "item": "Liver>Liver vessel>Portal vein>Unremarkable",
+        "Description": "patent main portal veins and its major branch"
+    },
+    {
+        "id": 68,
+        "item": "Liver>Liver vessel>Portal vein>Remarkable>Thrombus>main portal vein",
+        "Description": "Thrombosis in main portal vein"
+    },
+    {
+        "id": 69,
+        "item": "Liver>Liver vessel>Portal vein>Remarkable>Thrombus>Right portal vein",
+        "Description": "Thrombosis in right portal vein"
+    },
+    {
+        "id": 70,
+        "item": "Liver>Liver vessel>Portal vein>Remarkable>Thrombus>Left portal vein",
+        "Description": "Thrombosis in left portal vein"
+    },
+    {
+        "id": 71,
+        "item": "Liver>Ascites>Not presence",
+        "Description": "No apparent ascites"
+    },
+    {
+        "id": 72,
+        "item": "Liver>Ascites>Presence>Amount>Mild",
+        "Description": "Mild amount of ascites"
+    },
+    {
+        "id": 73,
+        "item": "Liver>Ascites>Presence>Amount>Moderate",
+        "Description": "Moderate amount ascites"
+    },
+    {
+        "id": 74,
+        "item": "Liver>Ascites>Presence>Amount>Severe",
+        "Description": "Severe amount of ascites"
+    },
+    {
+        "id": 75,
+        "item": "Liver>Ascites>Presence>Location>Perihepatic region",
+        "Description": "Amount of ascites in perihepatic region"
+    },
+    {
+        "id": 76,
+        "item": "Liver>Ascites>Presence>Location>Perisplenic region",
+        "Description": "Amount of ascites in perisplenic region"
+    },
+    {
+        "id": 77,
+        "item": "Liver>Ascites>Presence>Location>Upper abdomen",
+        "Description": "Amount of ascites in upper abdomen"
+    },
+    {
+        "id": 78,
+        "item": "Liver>Ascites>Presence>Location>Lower abdomen",
+        "Description": "Amount of ascites in lower abdomen"
+    },
+    {
+        "id": 79,
+        "item": "Liver>Ascites>Presence>Location>Pelvic cavity",
+        "Description": "Amount of ascites in pelvic cavity"
+    }
+],
+  "pagination": {
+    "more": true
+  }
+}
